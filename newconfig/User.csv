@@ -1,0 +1,11 @@
+Id,First_name,Last_name,Iban,Company,Phone_number,Currency,Currency_name
+0,Ronald,Mitchell,GB85TBOJ53757548775974,Nielsen Ltd,9314730235,"('GYD', 'Guyanese dollar')",Sri Lankan rupee
+1,Anthony,Cardenas,GB55TFEP55064366436333,"Boone, Gonzalez and Duncan",120-413-6585x915,"('BZD', 'Belize dollar')",Malagasy ariar
+2,Luis,Saunders,GB93QPFI53474101284848,Chang-Wilson,001-699-383-6654x7864,"('MYR', 'Malaysian ringgit')",Brazilian real
+3,Julie,Hayes,GB33IABU23915895814351,Palmer PLC,+1-661-922-7925x8710,"('SLL', 'Sierra Leonean leone')",Polish zloty
+4,Ryan,Phillips,GB43NOIK96185540601299,Bates PLC,001-097-621-5512x864,"('IMP', 'Manx pound')",Australian dollar
+5,Jason,Smith,GB58VTHY11422017041407,Burke Group,478.871.9778x510,"('BTN', 'Bhutanese ngultrum')",Jordanian dinar
+6,Jack,Wade,GB94UKOC44571438039511,Ross Group,943.076.7251x292,"('AMD', 'Armenian dram')",Ghanaian cedi
+7,Shannon,Garrett,GB35FNQO60269992612495,"Williams, Washington and Burton",933.095.8200x241,"('AMD', 'Armenian dram')",Qatari riyal
+8,Anthony,Martin,GB12YBGA38973441366888,Martin PLC,535.313.9389x451,"('ISK', 'Icelandic króna')",Algerian dinar
+9,Karen,Melendez,GB57UTAW81276806846893,Sutton-Smith,(012)338-0860x444,"('LBP', 'Lebanese pound')",Russian ruble
